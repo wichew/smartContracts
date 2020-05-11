@@ -1,4 +1,4 @@
-pragma solidity ^0.6.4;
+pragma solidity >=0.4.20;
 
 contract Inbox {
     string public message;
